@@ -1,0 +1,14 @@
+[] Penjelasan studi kasus
+	tentang aplikasi pembayaran teh mirda
+[] Siapkan Lab pelatihan
+	* install xampp, text editor dan browser
+[] Desain database
+	* pembuatan tabel pengguna, siswa dan pembayaran
+[] Buat database menggunakan phpMyAdmin
+	* import db
+	* insert pengguna user: admin pass:123456
+
+[] Coding
+	* db_config
+	* login.php
+	* index.php
